@@ -70,7 +70,7 @@ All iterative solvers are implemented to leverage the efficiency of the **sparse
 ---
 
 ### 4. Benchmark Results
-
+ 
 The analysis script visualizes the following key comparisons:
 
 -   **Performance**: Confirms the $O(N^3)$ complexity of the direct Gauss solver versus the much faster iterative methods.
